@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Home24Task</string>
+
+    <!--screen-->
+
+
+    <string name="dislike">Dislike</string>
+    <string name="like">Like</string>
+    <string name="start">Start</string>
+    <string name="end_of_articles">End of Articles</string>
+    <string name="article_selection">Selection</string>
+    <string name="review">Review</string>
+    <string name="action_grid">Grid</string>
+    <string name="action_list">List</string>
+
+
+    <!--Error-->
+
+    <string name="could_not_fetch_items">Could not fetch items</string>
+    <string name="some_error">Some Error Occurred!</string>
+    <string name="no_internet">No internet Connection !</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+
+    <!--Market-->
+
+    <string name="app_market_link">market://details?id=</string>
+    <string name="app_google_playstore_link">https://play.google.com/store/apps/details?id=</string>
+
+
+
+
+    <!--font awesome icon-->
+
+    <string name="awesome_thumb_up">&#xf164;</string>
+    <string name="awesome_thumb_down">&#xf165;</string>
+    <string name="awesome_list">&#xf00b;</string>
+    <string name="awesome_grid">&#xf00a;</string>
+
+</resources>

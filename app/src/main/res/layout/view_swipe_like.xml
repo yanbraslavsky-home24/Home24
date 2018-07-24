@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="350dp"
+android:layout_height="425dp"
+android:orientation="vertical">
+<TextView
+    fontPath="fonts/FontAwesome.otf"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="70dp"
+    android:clickable="true"
+    android:text="@string/awesome_thumb_up"
+    android:textColor="@color/like_color"
+    android:textSize="65sp"
+    android:layout_marginRight="20dp"
+    android:textStyle="bold"
+    android:visibility="visible"
+    tools:ignore="MissingPrefix" />
+
+</LinearLayout>
