@@ -3,11 +3,11 @@
 
 
 <p align="center">
-  <img src="https://cdn.pbrd.co/images/HvZCLt8.png" width="300">
-  <img src="https://cdn.pbrd.co/images/HvZDazr.png" width="300">
-  <img src="https://cdn.pbrd.co/images/HvZDgoi.png" width="300">
-  <img src="https://cdn.pbrd.co/images/HvZDP5y.png" width="300">
-  <img src="https://cdn.pbrd.co/images/HvZGGYi.png" width="300">
+  <img src="https://cdn.pbrd.co/images/HvZCLt8.png" width="250">
+  <img src="https://cdn.pbrd.co/images/HvZDazr.png" width="250">
+  <img src="https://cdn.pbrd.co/images/HvZDgoi.png" width="250">
+  <img src="https://cdn.pbrd.co/images/HvZDP5y.png" width="250">
+  <img src="https://cdn.pbrd.co/images/HvZGGYi.png" width="250">
 
 </p>
 <br>
@@ -65,7 +65,6 @@
 
 
 
-#Author
-Alaeddine Khoudi
+# Author: Alaeddine Khoudi
 
 
